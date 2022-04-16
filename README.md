@@ -1,6 +1,2 @@
 # Guia Git
-hola estoy haciendo un cambio desde test_branch
-estoy haciendo otro cambio desde la misma rama
-
-
-test
+Estmos por hacer una guia de git con el proceso para hacer push, merge, rebase y trabajar en equipo
